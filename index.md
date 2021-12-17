@@ -8,6 +8,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 **Tools used** - Pandas, Numpy, Matplotlib, sklearn, linear regression
+
 **Project objective** 
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
@@ -24,8 +25,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/Bank_data.jpeg?raw=true"/>
 **Tools used** - Pandas, Numpy, Matplotlib, sklearn, logistic regression
-**Project objective** 
 
+**Project objective** 
 
 - Used logistic regression to identify a customer will opt for term deposit or not 
 - Classified outputs as yes or no by studying patterns in measured attributes of those customer response
@@ -41,6 +42,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 **Tools used** - Pandas, Numpy, Matplotlib, sklearn, KNN and Naive Bayes
+
 **Project objective** 
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
