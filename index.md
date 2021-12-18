@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
+Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
 
 ***
 
@@ -53,3 +53,39 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project outcomes**
 Accuracy of the KNN is 85.05%.
 Accuracy of the NB is 82.26%
+
+***
+
+[Using Decision Tree to classify the Iris Dataset](https://github.com/jmlucasusc4/Decision_Tree/blob/main/Decison_Tree_Example.ipynb)
+
+<img src="images/Iris.png?raw=true"/>
+**Tools used** - Pandas, Numpy, Matplotlib, sklearn, Decison Tree algorithm
+
+**Project objective** 
+
+- Used the Decision Tree algorithm to classify the species of iris flower on Iris dataset based on various parameters
+- Compared predictive performance by fitting decision tree model to the data
+- Used the Decision Tree algorithm to classify a iris flower species as Setosa, Versicolor, or Virginica based on various parameters
+- Selected best model based on train and test performance
+
+**Project outcomes**
+Accuracy of the DT Classifier is 95.56%
+
+***
+
+[Using Bagging and Boosting to classify the Talking Dataset](https://github.com/jmlucasusc4/Bagging_Boosting_Project/blob/main/Bagging_Boosting_Project_ipynb.ipynb)
+
+<img src="images/talking.png?raw=true"/>
+**Tools used** - Pandas, Numpy, Matplotlib, Sklearn, Bagging and Boosting Classifier 
+
+**Project objective** 
+
+- First apply the Bagging Classifier to talking dataset to find whether the customers were downloading the app or not.
+- Compared predictive performance by fitting decision tree model to the data
+- Used the Boosting Classifier to talking dataset to find whether the customers were downloading the app or not.
+- In Bagging Classifier, we will use RandomForest; In Boosting Classifier, we will use XGBoost.
+- Selected best model based on train and test performance
+
+**Project outcomes**
+Bagging Classifier Accuracy is 84.02% on AUC/ROC
+Boosting Classifier Accuracy is 93.20% on AUC/ROC
