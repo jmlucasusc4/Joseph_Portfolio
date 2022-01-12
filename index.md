@@ -89,3 +89,21 @@ Accuracy of the DT Classifier is 95.56%
 **Project outcomes**
 Bagging Classifier Accuracy is 84.02% on AUC/ROC
 Boosting Classifier Accuracy is 93.20% on AUC/ROC
+***
+
+[Using Principal Component Analysis and Linear Regression to classify the Credit Card Fraud Dataset](https://github.com/jmlucasusc4/Credit_Card_Fraud)
+
+<img src="images/Credit_card.jpeg?raw=true"/>
+**Tools used** - Pandas, Numpy, Matplotlib, sklearn, PCA components
+
+**Project objective** 
+
+- First apply the Bagging Classifier to talking dataset to find whether the customers were downloading the app or not.
+- Used sklearn to scale the data and produce means for data analysis. 
+- Used the PCA Components to credit card fraud dataset to reduce the dimensions.
+- Then, we will use pca.explained_variance_, singular values, and means to signal behavior.
+- Used Matplotlib to graph the variance ratio.
+
+**Project outcomes**
+The accuracy of the PCA is 89.15% 
+***
