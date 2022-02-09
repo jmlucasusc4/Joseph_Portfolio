@@ -112,7 +112,7 @@ The accuracy of the PCA is 89.15%
 [Identifying given picture is a Cat or a Dog](https://github.com/jmlucasusc4/CNN_Project)
 
 <img src="images/Dog-and-Cat.jpeg?raw=true"/>
-**Tools used** -Python, Keras, Tensorflow
+**Tools used** -Python, Keras, Tensorflow, Pandas, Matplotlib
 
 **Project objective**: Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
 
