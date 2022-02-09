@@ -106,4 +106,20 @@ Boosting Classifier Accuracy is 93.20% on AUC/ROC
 
 **Project outcomes**
 The accuracy of the PCA is 89.15% 
+
+***
+
+[Identifying given picture is a Cat or a Dog](https://github.com/jmlucasusc4/CNN_Project)
+
+<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+**Tools used** -Python, Keras, Tensorflow
+
+**Project objective**: Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+
+**Quantifiable result**: We could train the Convolutional Neural Network to attain a accuracy of 80% using 23 epochs.
+
+- Added multiple convolution and pooling layers
+- Training model on basis of given data
+- Fitting the CNN to see if the provided image is dog or cat
+- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
 ***
