@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of Bank Marketing Campaign using a logistic classifier](https://github.com/jmlucasusc4/LogisticRegression/blob/main/Bank_Logistic_RegressionProject.ipynb)
+[Prediction of Bank Marketing Campaign using a logistic classifier](https://github.com/jmlucasusc4/LogisticRegression/blob/main/Bank_Logistic_RegressionProject.ipynb)
 
 <img src="images/Bank_data.jpeg?raw=true"/>
 **Skills used:** - Pandas, Numpy, Matplotlib, sklearn, logistic regression
@@ -117,5 +117,4 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Added multiple convolution and pooling layers
 - Training model on basis of given data
 - Fitting the CNN to see if the provided image is dog or cat
-- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
 ***
